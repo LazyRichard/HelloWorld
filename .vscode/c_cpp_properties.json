@@ -2,9 +2,11 @@
     "env": {},
     "configurations": [
         {
-            "name": "Gstreamer",
+            "name": "Linux",
             "intelliSenseMode": "gcc-x64",
-            "includePath": [],
+            "includePath": [
+                "${workspaceRoot}/**"
+            ],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "c11",
             "cppStandard": "c++17",
