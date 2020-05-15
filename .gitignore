@@ -1,3 +1,5 @@
 *.o
 
 hellomake*
+
+build/
